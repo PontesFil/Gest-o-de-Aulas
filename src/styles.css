@@ -4,12 +4,12 @@
   --bg: #f8f3ec;
   --ink: #1f1c19;
   --muted: #6c5f57;
-  --accent: #f7b538;
-  --accent-dark: #c2781b;
+  --accent: #3b82f6;
+  --accent-dark: #1d4ed8;
   --panel: #fffdf9;
   --shadow: rgba(31, 28, 25, 0.08);
   --stroke: rgba(31, 28, 25, 0.08);
-  --chip: #f3e4cf;
+  --chip: #dbeafe;
 }
 
 * {
